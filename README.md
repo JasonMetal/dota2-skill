@@ -10,7 +10,7 @@
 
 <br>
 
-**十位 DOTA2 传奇/现役选手用他们的思维框架，帮你看透对线、团战、BP、心态。**
+**二十位 DOTA2 传奇/现役选手用他们的思维框架，帮你看透对线、团战、BP、心态。**
 
 <br>
 
@@ -117,7 +117,7 @@ npx skills add JasonMetal/dota2-skill
 
 #### 第 2 步：选择你想问的选手
 
-**10 位传奇/现役选手，每人有不同的思维风格：**
+**20 位传奇/现役选手，每人有不同的思维风格：**
 
 | 你想知道... | 问谁 | 触发词 |
 |------------|------|--------|
@@ -131,6 +131,16 @@ npx skills add JasonMetal/dota2-skill
 | 提高效率、KDA 优化 | gpk | `gpk` |
 | 基本功、数据说话 | Satanic | `Satanic` |
 | 逆境调整、版本适应 | Nisha | `Nisha` |
+| 开团时机、团战直觉 | Collapse | `Collapse` |
+| farm效率、MMR排名 | Nightfall | `Nightfall` |
+| 激进carry、高风险高回报 | Pure | `Pure` |
+| 视野控制、辅助哲学 | Whitemon | `Whitemon` |
+| 老将智慧、consistency | Saksa | `Saksa` |
+| 稳定执行、双冠辅助 | Sneyking | `Sneyking` |
+| 极致操作、历史天赋 | Miracle- | `Miracle-` |
+| 建队哲学、TI执念 | Puppey | `Puppey` |
+| 新星冲劲、无惧强敌 | TaiLung | `TaiLung` |
+| MMR突破、跨区勇气 | Ws | `Ws` |
 
 ---
 
@@ -276,6 +286,16 @@ npx skills add JasonMetal/dota2-skill
 | **gpk** | gpk | Mid (2) | 金钱驱动，效率至上，低谷回归 |
 | **Satanic** | Satanic | Carry (1) | 机械精准，新人证明自己，数据说话 |
 | **Nisha** | Nisha | Mid/Carry | 双位置统治力，沉默坚韧，谦逊务实 |
+| **Collapse** | Collapse | Offlane (3) | 开团直觉，farm哲学，全面打法 |
+| **Nightfall** | Nightfall | Carry (1) | 极致farm，天梯态度，沉默力量 |
+| **Pure** | Pure | Carry (1) | 极致激进，1v9能力，新队即战力 |
+| **Whitemon** | Whitemon | Support (5) | 视野控制，对线掌控，低经济carry |
+| **Saksa** | Saksa | Support | consistency哲学，老将催化，转型能力 |
+| **Sneyking** | Sneyking | Support | 极致稳定，高效发育，英雄精通 |
+| **Miracle-** | Miracle- | Carry/Mid | 操作天花板，双位置统治，英雄池深度 |
+| **Puppey** | Puppey | Support/Captain | 建队哲学，TI执念，队长权威 |
+| **TaiLung** | TaiLung | Mid (2) | 无惧强敌，新星心态，赛区代表 |
+| **Ws** | Ws | Offlane (3) | MMR突破，跨区勇气，开团型三号位 |
 
 ---
 
