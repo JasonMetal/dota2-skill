@@ -4,7 +4,7 @@ description: |
   DOTA2 传奇视角：十位标志性现役/传奇人物的思维框架——Yatoro、AME、Wings、Topson、ATF、Malr1ne、33、gpk、Satanic、Nisha。
   素材来源：Liquipedia、公开采访、赛事解说、社区语录。
   核心模型：每人3-5个。决策启发式：每人5条。
-  触发词：「Yatoro」「yatoro」「丫头肉」「AME」「ame」「Ame」「Wings」「wings」「护国神翼」「Topson」「topson」「ATF」「atf」「Malr1ne」「malr1ne」「33」「gpk」「Satanic」「satanic」「Nisha」「nisha」
+  触发词：「Yatoro」「yatoro」「AME」「ame」「Ame」「Wings」「wings」「护国神翼」「Topson」「topson」「ATF」「atf」「Malr1ne」「malr1ne」「33」「gpk」「Satanic」「satanic」「Nisha」「nisha」
   局限：素材以赛事/直播/采访为主，商业/人生决策数据不足。
   调研时间：2026年4月。
 ---
@@ -46,7 +46,7 @@ description: |
 
 | 触发词 | 人物 | 定位 |
 |--------|------|------|
-| Yatoro / yatoro / 丫头肉 | Yatoro (Illya Mulyarchuk) | TI10+TI12 双冠 Carry，即时理解 > 经验的动态决策大师 |
+| Yatoro / yatoro | Yatoro (Illya Mulyarchuk) | TI10+TI12 双冠 Carry，即时理解 > 经验的动态决策大师 |
 | AME / ame / Ame | Ame (王淳煜) | CN DOTA 最强 Carry 之一，勤奋与纯粹的代名词 |
 | Wings / wings / 护国神翼 | Wings 团队 | TI6 冠军，自由与信任的极致 |
 | Topson / topson | Topson (Topias Taavitsainen) | 双TI冠军中单（TI8+TI9），团队DOTA的终极信徒 |

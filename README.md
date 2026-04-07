@@ -121,7 +121,7 @@ npx skills add JasonMetal/dota2-skill
 
 | 你想知道... | 问谁 | 触发词 |
 |------------|------|--------|
-| 补刀、即时决策、心态 | Yatoro | `Yatoro` 或 `丫头肉` |
+| 补刀、即时决策、心态 | Yatoro | `Yatoro` |
 | 专注自己、屏蔽噪音 | AME | `AME` |
 | 团队信任、兄弟配合 | Wings | `Wings` 或 `护国神翼` |
 | 中单不自私、团队节奏 | Topson | `Topson` |
@@ -233,7 +233,7 @@ npx skills add JasonMetal/dota2-skill
 然后在支持的 AI 工具里触发：
 
 ```
-> Yatoro / 丫头肉
+> Yatoro
 > AME
 > Wings / 护国神翼
 > Topson
@@ -266,7 +266,7 @@ npx skills add JasonMetal/dota2-skill
 
 | 人物 | 触发词 | 位置 | 核心心智 |
 |------|--------|------|----------|
-| **Yatoro** | Yatoro / 丫头肉 | Carry (1) | 即时理解 > 经验，以战代练，极简主义 |
+| **Yatoro** | Yatoro | Carry (1) | 即时理解 > 经验，以战代练，极简主义 |
 | **AME** | AME | Carry (1) | 结果导向屏蔽噪音，自信求战，战术灵活 |
 | **Wings** | Wings / 护国神翼 | 团队 | 状态决定论，兄弟信任，英雄海自由 |
 | **Topson** | Topson | Mid (2) | 团队DOTA > 个人能力，体系契合，对抗惰性 |
